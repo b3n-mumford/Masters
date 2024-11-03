@@ -1,6 +1,6 @@
 # Masters
 Masters thesis - Echinoderm ossicles
-This is the github repository for my masters thesis.
+This is the github repository for my masters thesis. 
 This will host the data and r scripts as well as word/google docs produced in the writing of my thesis in academic year 2  
 Data is curretntly stored on an External SSD  and will be migrated into the repository  
 
